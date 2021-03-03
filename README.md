@@ -1,0 +1,1 @@
+# FUD-silent-miner
